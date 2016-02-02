@@ -1,0 +1,29 @@
+{
+  "name": "generator-konga",
+  "version": "1.0.0",
+  "description": "Yeoman generator for Konga projects",
+  "main": "index.js",
+  "files": [
+    "app",
+    "entity",
+    "config",
+    "action"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritok/konga-yeoman-generator.git"
+  },
+  "keywords": [
+    "konga"
+  ],
+  "author": "Pelayo Sanchez Margareto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pritok/konga-yeoman-generator/issues"
+  },
+  "homepage": "https://github.com/pritok/konga-yeoman-generator#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "yeoman-generator": "^0.22.5"
+  }
+}

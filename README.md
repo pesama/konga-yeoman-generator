@@ -15,7 +15,7 @@ npm install -g yo
 * Install `generator-konga` typing `npm install -g generator-konga`.
 * Go to your workspace.
 * Create a new application via `yo konga my-app-name`.
-* Done! You have a konga app working. Launch it with `grunt serve`.
+* Done! You have a working konga app under _my-app-name_ folder. Go there and launch it with `grunt serve`.
 
 ### Installation options
 
