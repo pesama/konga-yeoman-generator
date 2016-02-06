@@ -32,3 +32,7 @@ Along with crafting your application, `generator-konga` helps you throughout all
 ## Grunt tasks
 
 TODO
+
+## Options
+
+TODO
