@@ -1,0 +1,12 @@
+{
+  "name": "<%= appname %>",
+  "version": "<%= appversion %>",
+  "license": "<%= applicense %>",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
