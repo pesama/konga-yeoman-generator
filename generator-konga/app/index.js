@@ -269,8 +269,7 @@ module.exports = generators.Base.extend({
 		    "angular-sanitize",
 		    "angular-touch",
 		    "bootstrap",
-		    "oauth-ng",
-		    "ui.konga"
+		    "konga"
 	    ];
 
 	    for(var i = 0; i < npm.length; i++) {
